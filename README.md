@@ -2,6 +2,9 @@
 
 Linux:
 [![Build Status](https://travis-ci.org/dasher-project/dasher.svg?branch=master)](https://travis-ci.org/dasher-project/dasher)
+\-
+Java:
+[![CircleCI Build Status](https://circleci.com/gh/dasher-project/dasher.svg?style=shield)](https://circleci.com/gh/dasher-project/dasher)
 
 ## Dasher Version 4.11
 
